@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ox-game/static/css/main.628544f5.chunk.css",
+    "main.js": "/ox-game/static/js/main.0b666767.chunk.js",
+    "main.js.map": "/ox-game/static/js/main.0b666767.chunk.js.map",
+    "runtime~main.js": "/ox-game/static/js/runtime~main.0e7993ab.js",
+    "runtime~main.js.map": "/ox-game/static/js/runtime~main.0e7993ab.js.map",
+    "static/js/2.56cb80cd.chunk.js": "/ox-game/static/js/2.56cb80cd.chunk.js",
+    "static/js/2.56cb80cd.chunk.js.map": "/ox-game/static/js/2.56cb80cd.chunk.js.map",
+    "index.html": "/ox-game/index.html",
+    "precache-manifest.534cfd9875d2dfe609d15e3c23f04b8e.js": "/ox-game/precache-manifest.534cfd9875d2dfe609d15e3c23f04b8e.js",
+    "service-worker.js": "/ox-game/service-worker.js",
+    "static/css/main.628544f5.chunk.css.map": "/ox-game/static/css/main.628544f5.chunk.css.map"
+  }
+}
