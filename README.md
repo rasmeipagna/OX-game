@@ -1,6 +1,6 @@
-# Jeux Oxo en React
+# OX game using react
 
-https://rasmeipagna.github.io/OX-game/
+https://rasmeipagna.github.io/ox-game/
 
 Mail : rasmeipagna.toung@gmail.com
 
