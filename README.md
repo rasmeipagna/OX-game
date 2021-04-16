@@ -1,4 +1,4 @@
-# Jeux Oxo en React
+# OX game using react
 
 https://rasmeipagna.github.io/ox-game/
 
